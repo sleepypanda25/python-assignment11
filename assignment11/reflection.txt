@@ -1,0 +1,34 @@
+1. Reflect on the differences between static and interactive 
+visualizations.
+
+Static visualizations provide an summary of a trend in a set
+of data. They're the most convenient and versatile, as they
+can be displayed in a multitude of ways, from in print, PDF,
+slides, etc. 
+
+Interactive visualizations are better at showing detailed
+information, such as specific data values in a graph with a
+lot of data (and it would therefore create too much clutter
+to label each individual data point right next to the dot).
+Interactive visualizations also make it easy to analyze chunks
+of data, as you can zoom and pan to adjust the specific frame
+you're looking at.
+
+2. Write a short paragraph discussing the advantages of using 
+dashboards for real-time data exploration.
+
+Dashboards show data in real-time in a convenient, easy to read
+format. Rather than having to individually show or print data
+each time you want to see it, you can track all the changes
+in one place.
+
+3. Explain how interactive tools like Plotly can improve data 
+communication in professional settings.
+
+Plotly is essential for interactive visualizations, which can
+make it easier to communicate complex information with a lot of
+data through utilizing the features of interactive graphs.
+While giving a presentation, being able to hovering over each 
+point you want to focus on or zoom/pan to better show a
+specific part of the graph will make it much easier to
+communicate your message to your audience.
